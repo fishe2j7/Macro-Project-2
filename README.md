@@ -28,3 +28,5 @@ The calculation of steady-state kt and Question 3 are analyzed in "Part-3-Code.R
     -> The Solow Residual in level (exp(logA)) = "A"
 
 Detailed explanations on each of these variable's calculations and the code to do so is contained in "Part-3-Code.R"
+
+Code for generating the Simulated v Actual GDP and Steady-State v Actual GDP plots are contained in "PlotCodes.R"
