@@ -31,4 +31,4 @@ Detailed explanations on each of these variable's calculations and the code to d
 
 Code for generating the Simulated v Actual GDP and Steady-State v Actual GDP plots are contained in "PlotCodes.R"
 
-The code for solving the optimization problem (Part 4) is contained in lines of "Macro Project 2 Code Parts1,2,4.py"
+The code for solving the optimization problem (Part 4) is contained in lines 108-186 of "Macro Project 2 Code Parts1,2,4.py"
