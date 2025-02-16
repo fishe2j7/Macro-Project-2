@@ -1,4 +1,4 @@
-# Macro-Project-2
+# Macro-Project-2 - Read in "Code" Format for Easier Interpretation
 Code for ECON8030 Project 2 - Jack Fisher, Noble Nwankwo, Caleb Loganathan
 
 All of Questions 1 and 2 (except for the calculation of steady state kt) are analyzed by the code "Macro Project 2 Code Parts1,2,4.py".  
